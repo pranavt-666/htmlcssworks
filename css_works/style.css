@@ -1,0 +1,14 @@
+/* tagselector, idselector, class selector{
+    property: value
+} */
+
+
+h1{
+    color: aquamarine;
+    border: 1px solid purple;
+}
+
+#id_h1{
+    color: brown;
+}
+
