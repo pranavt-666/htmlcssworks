@@ -1,0 +1,25 @@
+/* relative length % vh vw  will take related lenths to parent div..... */
+/* absolute length px ..... ==> will not change in any screens*/
+
+.parent{     
+    height: 700px;
+    width: 600px;
+    background-color: blueviolet;
+}
+.child{
+    border: 1px solid gold;
+    color: black;
+    height: 200px;
+    width: 500px;
+}
+
+.childone{
+    background-color: aqua;
+}
+
+.childtwo{
+    background-color: azure;
+}
+.childthree{
+    background-color: bisque;
+}
