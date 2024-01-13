@@ -1,0 +1,29 @@
+.section{
+    height: 100px;
+    width: 500px;
+    border: 1px solid black;
+    float: left;
+}
+
+.section1{
+    background-color: blanchedalmond;
+    /* both made auto to make it centre
+    and if the margin-left only auto then it will 
+    take full of the left space */
+    /* margin-left: auto;
+    margin-right: auto; */
+}
+
+.section2{
+    background-color: chocolate;
+    /* margin-top: 50px;
+    margin-left: 200px; */
+}
+
+.section3{
+    background-color: rgb(238, 162, 108);
+    /* margin-left: 300px;
+    margin-top: 50px; */
+}
+
+
