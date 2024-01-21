@@ -1,0 +1,76 @@
+PRANAV THAYYIL
+ANALYST - DATA ENGINEER
+KANNUR, KERALA • +91 8590623824 • pranavt666@gmail.com
+
+OBJECTIVE:
+Django Developer with a robust background in data engineering and analysis, seeking opportunities to contribute expertise in Python, SQL, Django, and Microsoft Azure to innovative projects.
+
+WORK EXPERIENCE
+____________________________________________________________________________
+
+ANALYST - DATA ENGINEER | Invenics | 09/2022 – Present
+- Led the creation of a Migration Platform hosted on Azure, enabling real-time analysis and seamless migration of XML files.
+- Initiated the project with a prototype using Streamlit and transformed it into a Django web application for enterprise-scale deployment.
+- Implemented token authentication and permission classes, enhancing security and access control.
+- Integrated data from diverse sources, including SAP systems, into the Azure ecosystem, ensuring accuracy and reliability.
+- Developed and maintained ETL processes using Azure Data Factory and custom scripts.
+- Created interactive dashboards and reports using Power BI for actionable insights.
+- Worked in an Agile environment, following Scrum methodologies for efficient project management.
+
+SKILLS & TOOLS
+____________________________________________________________________________
+
+Languages: Python, SQL
+Frameworks: Django, Django Rest Framework
+Web Technologies: HTML, CSS
+Databases: SAP HANA, Microsoft Azure, Microsoft SQL, SQLite
+Microsoft Azure: Azure Data Lake Storage, Azure Data Factory, Azure SQL Database, Azure Databricks, Azure Synapse Analytics
+ETL Tools: Microsoft Azure, SAP BODS, SAP DI
+Data Visualization: Power BI, Tableau, SAC
+DevOps: Azure, GitHub
+Tools: Streamlit
+
+TRAINING
+____________________________________________________________________________
+
+Completed a 3-month internship and training program focusing on Django Rest Framework.
+- Implemented RESTful APIs using various HTTP methods, employing serialization to communicate with the database.
+- Worked extensively on ORM queries for data retrieval, deserialization, and database communication.
+
+EDUCATION
+____________________________________________________________________________
+
+Bharathiyar University, India
+Bsc in Aircraft Maintenance Science with first class(71%)
+Indian Institute of Technology, Madras, India
+Currently Pursuing Diploma in Programming online.
+
+Organization
+____________________________________________________________________________
+
+Worked as a Volunteer in National Service Scheme (2014-2016)
+
+CERTIFICATIONS
+____________________________________________________________________________
+
+- Udemy
+Completed certification course from Udemy for SAP Data Services
+URL: [Udemy Certification Link]
+ANALYST - DATA ENGINEER | Invenics | 09/2022 – Present
+- Spearheaded the creation of a Migration Platform hosted on Azure, resulting in a 20% reduction in data migration time.
+- Initiated the project with a prototype using Streamlit and successfully transformed it into a Django web application, leading to improved user engagement and adoption.
+- Implemented token authentication and permission classes, fortifying security measures and ensuring compliance with industry standards.
+- Streamlined the integration of data from diverse sources, including SAP systems, into the Azure ecosystem, resulting in a 15% enhancement in data accuracy.
+- Developed and optimized ETL processes using Azure Data Factory and custom scripts, leading to a 25% increase in overall data processing efficiency.
+- Created interactive dashboards and reports using Power BI, empowering stakeholders to make informed decisions and contributing to a 30% improvement in data-driven insights.
+- Played a key role in an Agile environment, contributing to successful project deliveries following Scrum methodologies.
+
+
+
+star
+
+
+- **Situation:** The company required a more efficient approach to upload and give a briefing about the xml uploaded and to download the converted files into the system, especially from diverse sources including SAP systems.
+  - **Task:** Lead the initiative to design and implement a Migration Platform  using the django View Template Architecture and hosting using azure.
+  - **Action:** Initiated the project with a prototype using Streamlit and seamlessly transformed it into a Django web application. Implemented token authentication and permission classes to enhance security.
+  - **Result:** Achieved a 20% reduction in migration time, resulting in a more streamlined and efficient process. The successful implementation led to improved user engagement and adoption, establishing the platform as a key component in the data management ecosystem.
